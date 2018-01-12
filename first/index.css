@@ -1,0 +1,25 @@
+.main_wrapper {
+  background: rgb(216, 216, 216);
+  width: 100vw;
+  height: 100vh;
+}
+
+.top_section {
+  background: rgb(68, 68, 68);
+  height: 150px;
+  width: 100vw;
+}
+
+.main_body_container {
+  width: 68%;
+  height: 75vh;
+  background: #eee;
+  margin: auto;
+}
+
+.main_footer {
+  background: rgb(35, 35, 35);
+  width: 68%;
+  height: 75px;
+  margin: auto;
+}

@@ -1,0 +1,55 @@
+.main_wrapper {
+
+}
+
+.row {
+  height: 115px;
+  width: 100%;
+}
+
+.top_section {
+  background: rgb(211,211,211);
+  padding-top: 7px;
+  height: 90px;
+}
+
+.main_menu {
+  height: 90%;
+  width: 10%;
+  background: rgb(64,133,222);
+  margin-left: 20px;
+}
+
+.two {
+  height: 200px;
+  width: 100%;
+}
+
+.main_body_element {
+  /* text-align: justify; */
+  font-size: 20px;
+  width: 90%;
+  margin: 50px auto;
+}
+
+.three {
+  background: rgb(64,133,222);
+  
+}
+
+.four {
+  background: rgb(70,223,186);
+  
+}
+
+.five {
+  background: rgb(175,229,123);  
+  
+}
+
+.six {
+
+  background: rgb(247,227,27);
+  
+
+}
